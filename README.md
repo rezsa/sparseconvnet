@@ -34,7 +34,7 @@ SparseMask
 FC-128  
 SparseMask  
 FC-10  
-Softmax
+Softmax  
 vvvvvvvvvvvvvvvvvvvvv  
 
 The purpose of developing the SparseConvNet is to study the effects of architecture
