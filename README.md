@@ -6,7 +6,7 @@ The program uses the PyTorch C++ API (libtorch) for neural network development.
 The MNIST dataset is loaded and used to train a [VGG-style](https://arxiv.org/abs/1409.1556)
 convolutional neural network. This convolutional network has the following architecture:
 
-=============  
+_____________________
 28 x 28 image  
 .....................  
 Conv3-16  
@@ -34,8 +34,8 @@ SparseMask
 FC-128  
 SparseMask  
 FC-10  
-Softmax  
-=============
+Softmax
+_____________________
 
 The purpose of developing the SparseConvNet is to study the effects of architecture
 sparsity on the behavior of a neural network both during training and inference.
